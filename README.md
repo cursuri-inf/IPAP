@@ -18,6 +18,9 @@ Caietele de bază rulează și pe CPU. Când un caiet are nevoie de GPU, scrie e
 |---|---|---|---|
 | 1 | [L1_salut.ipynb](saptamana-01/L1_salut.ipynb) | Verifici că poți rula cod în Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-01/L1_salut.ipynb) |
 | 2 | [L2_primul_model.ipynb](saptamana-02/L2_primul_model.ipynb) | Antrenezi primul model, prin învățare prin transfer. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-02/L2_primul_model.ipynb) |
+| 2–3 | [R1_python_stiintific.ipynb](rampa/R1_python_stiintific.ipynb) | Caietul de rampă 1: Python științific (traseele Rampă și Nivelare Python). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/rampa/R1_python_stiintific.ipynb) |
+
+Caietele din folderul `rampa` sunt pentru traseele Rampă și Nivelare Python, recomandate de diagnosticul de la cursul 1; le parcurgi în ritmul tău, iar exercițiile se verifică singure.
 
 Caietele următoare apar aici pe măsură ce ajungem la ele.
 
