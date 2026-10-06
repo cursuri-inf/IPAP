@@ -1,6 +1,6 @@
-# IPAP: caietele de laborator
+# IPAP: caietele cursului
 
-Caietele Python folosite la laboratoarele cursului **Învățare Profundă Aplicativă cu Python** (Universitatea Tehnică din Cluj-Napoca, Centrul Universitar Nord din Baia Mare). Titular: conf. univ. dr. Cosmin Sabo.
+Caietele Python folosite la cursul și la laboratoarele disciplinei **Învățare Profundă Aplicativă cu Python** (Universitatea Tehnică din Cluj-Napoca, Centrul Universitar Nord din Baia Mare). Titular: conf. univ. dr. Cosmin Sabo.
 
 Materialele cursului, temele și notele sunt în Campus Virtual; aici sunt doar caietele, pe care le deschizi în Google Colab.
 
@@ -20,8 +20,12 @@ Caietele de bază rulează și pe CPU. Când un caiet are nevoie de GPU, scrie e
 | 2 | [L2_primul_model.ipynb](saptamana-02/L2_primul_model.ipynb) | Antrenezi primul model, prin învățare prin transfer. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-02/L2_primul_model.ipynb) |
 | 2–3 | [R1_python_stiintific.ipynb](rampa/R1_python_stiintific.ipynb) | Caietul de rampă 1: Python științific (traseele Rampă și Nivelare Python). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/rampa/R1_python_stiintific.ipynb) |
 | 3 | [R2_algebra_gradient.ipynb](rampa/R2_algebra_gradient.ipynb) | Caietul de rampă 2: algebră liniară și gradient prin cod (traseele Rampă și Nivelare Python). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/rampa/R2_algebra_gradient.ipynb) |
+| 3 | [R3_probabilitati_entropie.ipynb](rampa/R3_probabilitati_entropie.ipynb) | Caietul de rampă 3: probabilități și entropie încrucișată (traseele Rampă și Nivelare Python). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/rampa/R3_probabilitati_entropie.ipynb) |
+| 3 | [curs03_demonstratii.ipynb](saptamana-03/curs03_demonstratii.ipynb) | Demonstrațiile de la cursul 3, cu rezultatele salvate. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-03/curs03_demonstratii.ipynb) |
 
 Caietele din folderul `rampa` sunt pentru traseele Rampă și Nivelare Python, recomandate de diagnosticul de la cursul 1; le parcurgi în ritmul tău, iar exercițiile se verifică singure.
+
+Caietele `cursNN_demonstratii` conțin demonstrațiile de la curs, cu rezultatele salvate: le poți citi fără să le rulezi, apoi le rulezi și schimbi câte un număr, ca să vezi ce se schimbă.
 
 Caietele următoare apar aici pe măsură ce ajungem la ele.
 
