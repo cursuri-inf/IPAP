@@ -16,6 +16,7 @@ Caietele de bază rulează și pe CPU. Când un caiet are nevoie de GPU, scrie e
 
 | Săpt. | Caiet | Ce faci | Deschide |
 |---|---|---|---|
+| 1 | [curs01_demonstratii.ipynb](saptamana-01/curs01_demonstratii.ipynb) | Demonstrațiile de la cursul 1 (imagini, recenzii în română, prognoză), cu rezultatele salvate. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-01/curs01_demonstratii.ipynb) |
 | 1 | [L1_salut.ipynb](saptamana-01/L1_salut.ipynb) | Verifici că poți rula cod în Colab. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-01/L1_salut.ipynb) |
 | 2 | [curs02_demonstratii.ipynb](saptamana-02/curs02_demonstratii.ipynb) | Demonstrațiile de la cursul 2, cu rezultatele salvate. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-02/curs02_demonstratii.ipynb) |
 | 2 | [L2_primul_model.ipynb](saptamana-02/L2_primul_model.ipynb) | Antrenezi primul model, prin învățare prin transfer. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/IPAP/blob/main/saptamana-02/L2_primul_model.ipynb) |
